@@ -9,12 +9,12 @@ this is a mod for the Nintendo Switch Release of BALL x PIT, which overwrites th
 - DualSense dpad that i drew from scratch
 
 ## compatibility
-currently, only BALL x PIT version `1.251` is supported.
+currently, only the BALL x PIT base game (version `1.251`) is supported. the mod has been tested on [Eden](https://git.eden-emu.dev/eden-emu/eden) 0.1.1 android.
 
 ## how to install
 first, download the latest release zip [here](https://github.com/mircey/ball-x-pit-nsw-ver-playstation-button-prompts/releases/tag/2).
 ### on pc
-1. open Eden
+1. open [Eden](https://git.eden-emu.dev/eden-emu/eden)
 2. rclick BALL x PIT in the games list
 3. click Open Mod Data Location
 4. extract the content of the release zip to the folder, that just opened
@@ -31,7 +31,7 @@ eden
 ```
 ### on android
 1. either extract the release zip on your pc and move it to your android device via USB, or unzip it on the android device directly using [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en)
-2. open Eden
+2. open [Eden](https://git.eden-emu.dev/eden-emu/eden)
 3. long press BALL x PIT in the games list
 4. tap Add-ons
 5. tap + Install
@@ -43,7 +43,7 @@ i love the PlayStation aesthetic, so i modded my Odin 2 Mini emulation handheld 
 
 ## documentation
 i am not planning on doing an xbox version anytime soon, although there probably are a few people looking for one. but dont fret!! you can do it yourself! i documented everything i did:
-1. open Eden
+1. open [Eden](https://git.eden-emu.dev/eden-emu/eden)
 2. rclick BALL x PIT->Dump RomFS->Dump RomFS
 3. open [AssetStudioMod](https://github.com/aelurum/AssetStudio)
 4. File->Load Folder
