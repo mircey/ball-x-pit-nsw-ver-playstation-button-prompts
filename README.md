@@ -1,15 +1,15 @@
 # ball-x-pit-nsw-ver-playstation-button-prompts
 a mod for the Nintendo Switch Release of BALL x PIT, that changes the standard Nintendo Switch button prompts to PlayStation button prompts.
 
+<img width="1920" height="1080" alt="Screenshot_20260311-015539" src="https://github.com/user-attachments/assets/026667df-98e8-4990-ae96-5d947e2d2bbe" />
 
-
-## changes
+## features
 - PS4 face buttons and shoulder buttons
 - slightly modified PS4 triggers
 - DualSense dpad that i drew from scratch
 
 ## motivation
-i love the PlayStation aesthetic, so i modded my Odin 2 Mini emulation handheld console with SakuraRetroModdings custom PlayStation buttons! i prefer to play all my indie games that have switch releases through Eden, for performance and efficiency reasons. everything about this works perfectly, except for the games button prompts; wouldnt it just be lovely to have "native" PlayStation buttons in games on my DIY modern PS Vita?
+i love the PlayStation aesthetic, so i modded my Odin 2 Mini emulation handheld console with [SakuraRetroModdings custom PlayStation buttons](https://www.etsy.com/de-en/listing/4351698824/odin-2-mini-black-playstation-ps-psx?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=buttons+sakura+retro+modding&ref=sr_gallery-1-14&sts=1&content_source=38afd973-31fd-4964-a630-0a43001e9681%253ALTbda6958b38dad150fa3e02f9a39de8eba9379783&organic_search_click=1&logging_key=38afd973-31fd-4964-a630-0a43001e9681%3ALTbda6958b38dad150fa3e02f9a39de8eba9379783)! i prefer to play all my indie games that have switch releases through Eden, for performance and efficiency reasons. everything about this works perfectly, except for the games button prompts; wouldnt it just be lovely to have "native" PlayStation button prompts show up in games on my DIY modern PS Vita?
 
 ## documentation
 i am not planning on doing an xbox version anytime soon, although there probably are a lot of people looking for one. but dont fret!! you can do it yourself! i documented everything i did:
@@ -50,7 +50,6 @@ i am not planning on doing an xbox version anytime soon, although there probably
 30. File->Save As...
 31. choose ``playstation buttons\romfs\Data\resources.assets` for the save location
 32. test by copying `playstation buttons` into `%appdata%\eden\load\010086A022444000\` and launching the game
-33. 
 
 ## credits
 thanks to [Kenny Sun and Friends](https://kennysun.com/) for bundling the official PS4 button prompts in the switch release!
