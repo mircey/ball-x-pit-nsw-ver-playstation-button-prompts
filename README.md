@@ -8,6 +8,33 @@ a mod for the Nintendo Switch Release of BALL x PIT, that changes the standard N
 - slightly modified PS4 triggers
 - DualSense dpad that i drew from scratch
 
+## how to install
+first, download the latest release zip [here](https://github.com/mircey/ball-x-pit-nsw-ver-playstation-button-prompts/releases/tag/2).
+### on pc
+1. open Eden
+2. rclick BALL x PIT in the games list
+3. click Open Mod Data Location
+4. extract the content of the release zip to the folder, that just opened
+
+this is how the final folder structure should look like:
+```
+eden
+└─load
+  └─010086A022444000
+    └─playstation prompts
+      └─romfs
+        └─Data
+          └─resources.assets
+```
+### on android
+1. either extract the release zip on your pc and move it to your android device via USB, or unzip it on the android device directly using [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en)
+2. open Eden
+3. long press BALL x PIT in the games list
+4. tap Add-ons
+5. tap + Install
+6. choose Mods and cheats
+7. select the extracted `playstation prompts`, which has the `romfs` folder within it.
+
 ## motivation
 i love the PlayStation aesthetic, so i modded my Odin 2 Mini emulation handheld console with [SakuraRetroModdings custom PlayStation buttons](https://www.etsy.com/de-en/listing/4351698824/odin-2-mini-black-playstation-ps-psx?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=buttons+sakura+retro+modding&ref=sr_gallery-1-14&sts=1&content_source=38afd973-31fd-4964-a630-0a43001e9681%253ALTbda6958b38dad150fa3e02f9a39de8eba9379783&organic_search_click=1&logging_key=38afd973-31fd-4964-a630-0a43001e9681%3ALTbda6958b38dad150fa3e02f9a39de8eba9379783)! i prefer to play all my indie games that have switch releases through Eden, for performance and efficiency reasons. everything about this works perfectly, except for the games button prompts; wouldnt it just be lovely to have "native" PlayStation button prompts show up in games on my DIY modern PS Vita?
 
