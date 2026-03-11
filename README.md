@@ -1,12 +1,15 @@
 # BALL x PIT (Nintendo Switch) PlayStation button prompts
 this is a mod for the Nintendo Switch Release of BALL x PIT, which overwrites the standard Nintendo Switch button prompts with PlayStation button prompts.
 
-<img width="1920" height="1080" alt="Screenshot_20260311-015539" src="https://github.com/user-attachments/assets/026667df-98e8-4990-ae96-5d947e2d2bbe" />
+<!--<img width="1920" height="1080" alt="Screenshot_20260311-015539" src="https://github.com/user-attachments/assets/026667df-98e8-4990-ae96-5d947e2d2bbe" />-->
+<img width="1920" height="1080" alt="Screenshot_20260311-145808" src="https://github.com/user-attachments/assets/701aa03b-6e05-4496-98f0-938da74116c6" />
+
 
 ## features
-- PS4 face buttons and shoulder buttons
-- slightly modified PS4 triggers
-- DualSense dpad that i drew from scratch
+- DualShock face buttons
+- DualShock shoulder buttons
+- DualShock triggers
+- DualSense-inspired dpad
 
 ## compatibility
 currently, only the BALL x PIT base game (version `1.251`) is supported. the mod has been tested with [Eden](https://git.eden-emu.dev/eden-emu/eden) `0.1.1` on android.
