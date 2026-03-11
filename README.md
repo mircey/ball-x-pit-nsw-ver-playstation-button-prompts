@@ -39,7 +39,7 @@ eden
 i love the PlayStation aesthetic, so i modded my Odin 2 Mini emulation handheld console with [SakuraRetroModdings custom PlayStation buttons](https://www.etsy.com/de-en/listing/4351698824/odin-2-mini-black-playstation-ps-psx?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=buttons+sakura+retro+modding&ref=sr_gallery-1-14&sts=1&content_source=38afd973-31fd-4964-a630-0a43001e9681%253ALTbda6958b38dad150fa3e02f9a39de8eba9379783&organic_search_click=1&logging_key=38afd973-31fd-4964-a630-0a43001e9681%3ALTbda6958b38dad150fa3e02f9a39de8eba9379783)! i prefer to play all my indie games that have switch releases through Eden, for performance and efficiency reasons. everything about this works perfectly, except for the games button prompts; wouldnt it just be lovely to have "native" PlayStation button prompts show up in games on my DIY modern PS Vita?
 
 ## documentation
-i am not planning on doing an xbox version anytime soon, although there probably are a lot of people looking for one. but dont fret!! you can do it yourself! i documented everything i did:
+i am not planning on doing an xbox version anytime soon, although there probably are a few people looking for one. but dont fret!! you can do it yourself! i documented everything i did:
 1. open Eden
 2. rclick BALL x PIT->Dump RomFS->Dump RomFS
 3. open [AssetStudioMod](https://github.com/aelurum/AssetStudio)
