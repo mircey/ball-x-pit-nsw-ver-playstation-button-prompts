@@ -9,7 +9,7 @@ this is a mod for the Nintendo Switch Release of BALL x PIT, which overwrites th
 - DualSense dpad that i drew from scratch
 
 ## compatibility
-currently, only the BALL x PIT base game (version `1.251`) is supported. the mod has been tested on [Eden](https://git.eden-emu.dev/eden-emu/eden) 0.1.1 android.
+currently, only the BALL x PIT base game (version `1.251`) is supported. the mod has been tested on [Eden](https://git.eden-emu.dev/eden-emu/eden) `0.1.1` android.
 
 ## how to install
 first, download the latest release zip [here](https://github.com/mircey/ball-x-pit-nsw-ver-playstation-button-prompts/releases/tag/2).
