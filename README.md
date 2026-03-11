@@ -1,5 +1,5 @@
-# ball-x-pit-nsw-ver-playstation-button-prompts
-a mod for the Nintendo Switch Release of BALL x PIT, that changes the standard Nintendo Switch button prompts to PlayStation button prompts.
+# BALL x PIT (Nintendo Switch) PlayStation button prompts
+this is a mod for the Nintendo Switch Release of BALL x PIT, which overwrites the standard Nintendo Switch button prompts with PlayStation button prompts.
 
 <img width="1920" height="1080" alt="Screenshot_20260311-015539" src="https://github.com/user-attachments/assets/026667df-98e8-4990-ae96-5d947e2d2bbe" />
 
