@@ -8,6 +8,9 @@ this is a mod for the Nintendo Switch Release of BALL x PIT, which overwrites th
 - slightly modified PS4 triggers
 - DualSense dpad that i drew from scratch
 
+## compatibility
+currently, only BALL x PIT version `1.251` is supported.
+
 ## how to install
 first, download the latest release zip [here](https://github.com/mircey/ball-x-pit-nsw-ver-playstation-button-prompts/releases/tag/2).
 ### on pc
