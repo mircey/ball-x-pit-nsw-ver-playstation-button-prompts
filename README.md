@@ -24,7 +24,7 @@ this is how the final folder structure should look like:
 eden
 └─load
   └─010086A022444000
-    └─playstation prompts
+    └─PlayStation prompts
       └─romfs
         └─Data
           └─resources.assets
@@ -36,7 +36,7 @@ eden
 4. tap Add-ons
 5. tap + Install
 6. choose Mods and cheats
-7. select the extracted `playstation prompts`, which has the `romfs` folder within it.
+7. select the extracted `PlayStation prompts`, which has the `romfs` folder within it.
 
 ## motivation
 i love the PlayStation aesthetic, so i modded my Odin 2 Mini emulation handheld console with [SakuraRetroModdings custom PlayStation buttons](https://www.etsy.com/de-en/listing/4351698824/odin-2-mini-black-playstation-ps-psx?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=buttons+sakura+retro+modding&ref=sr_gallery-1-14&sts=1&content_source=38afd973-31fd-4964-a630-0a43001e9681%253ALTbda6958b38dad150fa3e02f9a39de8eba9379783&organic_search_click=1&logging_key=38afd973-31fd-4964-a630-0a43001e9681%3ALTbda6958b38dad150fa3e02f9a39de8eba9379783)! i prefer to play all my indie games that have switch releases through Eden, for performance and efficiency reasons. everything about this works perfectly, except for the games button prompts; wouldnt it just be lovely to have "native" PlayStation button prompts show up in games on my DIY modern PS Vita?
