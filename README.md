@@ -9,10 +9,11 @@ this is a mod for the Nintendo Switch Release of BALL x PIT, which overwrites th
 - DualSense dpad that i drew from scratch
 
 ## compatibility
-currently, only the BALL x PIT base game (version `1.251`) is supported. the mod has been tested on [Eden](https://git.eden-emu.dev/eden-emu/eden) `0.1.1` android.
+currently, only the BALL x PIT base game (version `1.251`) is supported. the mod has been tested with [Eden](https://git.eden-emu.dev/eden-emu/eden) `0.1.1` on android.
 
 ## how to install
 first, download the latest release zip [here](https://github.com/mircey/ball-x-pit-nsw-ver-playstation-button-prompts/releases/tag/2).
+
 ### on pc
 1. open [Eden](https://git.eden-emu.dev/eden-emu/eden)
 2. rclick BALL x PIT in the games list
@@ -29,6 +30,7 @@ eden
         └─Data
           └─resources.assets
 ```
+
 ### on android
 1. either extract the release zip on your pc and move it to your android device via USB, or unzip it on the android device directly using [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en)
 2. open [Eden](https://git.eden-emu.dev/eden-emu/eden)
