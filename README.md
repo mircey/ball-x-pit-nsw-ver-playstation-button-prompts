@@ -1,8 +1,15 @@
 # BALL x PIT PlayStation button prompts for Nintendo Switch
-this is a mod for the Nintendo Switch Release of BALL x PIT, which overwrites the standard Nintendo Switch button prompts with PlayStation button prompts.
+this is a mod for the Nintendo Switch Release of BALL x PIT, which overwrites the standard Nintendo Switch button prompts with PlayStation button prompts. support me by clicking the dumb dog below!🤎
+
+<p align="center">
+  <!--<a href="https://ko-fi.com/mircey"><img width="160" alt="crying emoji" src="https://github.com/user-attachments/assets/afdab743-7f81-4648-b87e-316a48fa5b87" /></a>-->
+  <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/mircey"><img width="160" alt="thrilled" src="https://github.com/user-attachments/assets/9789b502-579c-435d-939a-1643f7540c04" /></a>
+  <!--<a href="https://buymeacoffee.com/mircey"><img width="160" alt="please" src="https://github.com/user-attachments/assets/1395ce96-0e2a-4a31-863c-77ac3b98fddd" /></a>-->
+</p>
 
 <!--<img width="1920" height="1080" alt="Screenshot_20260311-015539" src="https://github.com/user-attachments/assets/026667df-98e8-4990-ae96-5d947e2d2bbe" />-->
 <img width="1920" height="1080" alt="Screenshot_20260311-145808" src="https://github.com/user-attachments/assets/701aa03b-6e05-4496-98f0-938da74116c6" />
+
 
 
 ## features
